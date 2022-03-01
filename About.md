@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## My name is Sanjarbek Saminjonov 
+## Welcome to my profile! I'm glad as you're here
 <!--
 **SanjarbekSaminjonov/SanjarbekSaminjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
