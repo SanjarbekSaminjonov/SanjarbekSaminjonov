@@ -4,6 +4,7 @@ My name is Sanjarbek Saminjonov.
 Welcome to my profile!
 I'm glad as you're here
 
+- 👨‍💻 Take a look me [saminjonov.uz](htpps://saminjonov.uz)
 - 🔭 I’m currently working on [bagdad.uz](https://bagdad.uz), [worldglamour.uz](https://worldglamour.uz)
 - 🌱 I’m currently learning AWS
 - 👯 I’m collaborating on [musofirlar.uz](http://musofirlar.uz)
