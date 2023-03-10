@@ -12,6 +12,4 @@ I'm glad as you're here
 - 📫 How to reach me: [Email](mailto:sanjarbeksaminjonovv@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sanjarbek-saminjonov)
 - 😅 Fun fact: I am here 👀
 
-![Sanjarbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarbeksaminjonov&count_private=true&theme=dark&show_icons=true)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SanjarbekSaminjonov?theme=nord&font=Allerta&ext=activity)
